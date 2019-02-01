@@ -1,0 +1,30 @@
+{
+  "colors": [
+    {
+	  "color": "black",
+	  "type": "primary",
+	  "code": {
+		"rgb": { "Red: ": 255, "Green: ": 255, "Blue: ": 255 },
+		"hex": "#000"
+    },
+	  "old_tags": [ {"old_tags_names" : [ "tag1", "tag2", "tag3" ] }, {"old_tags_values" : [ 10, 22, 60 ] } ]
+    },
+    {
+      "color": "white",
+      "code": {
+        "rgb": { "Red: ": 0, "Green: ": 0, "Blue: ": 0 },
+        "hex": "#FFF"
+      },
+	  "old_tags": [ {"old_tags_names" : [ "tag4", "tag5" ] }, {"old_tags_values" : [ 5, 2 ] } ]
+    },
+    {
+      "color": "red",
+      "type": "primary",
+      "code": {
+        "rgb": { "Red: ": 255, "Green: ": 0, "Blue: ": 0 },
+        "hex": "#FF0"
+      },
+	  "old_tags": [ {"old_tags_names" : [ "tag6" ] }, {"old_tags_values" : [ 100 ] } ]
+    }
+  ]
+}
